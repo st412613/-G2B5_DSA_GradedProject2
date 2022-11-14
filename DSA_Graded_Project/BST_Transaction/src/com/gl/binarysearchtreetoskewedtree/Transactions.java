@@ -1,6 +1,6 @@
 package com.gl.binarysearchtreetoskewedtree;
 
-//SkewedBinaryTree  class
+//Transactions  class
 public class Transactions {
 	public Node node;
 	static Node prevNode = null;
